@@ -1,0 +1,22 @@
+# CMake / Visual Studio artifacts
+HandFX/build*/
+HandFX/**/CMakeFiles/
+HandFX/**/CMakeCache.txt
+HandFX/**/*.vcxproj*
+HandFX/**/*.vcxproj.filters
+HandFX/**/*.sln
+HandFX/**/HandFX_artefacts/
+
+# VS Code cache
+.vscode/ipch/
+.vscode/.cmake/
+.vscode/targets/
+
+# Python
+handfx/__pycache__/
+handfx/.venv/
+handfx/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
