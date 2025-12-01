@@ -20,3 +20,5 @@ handfx/*.pyc
 # OS
 .DS_Store
 Thumbs.db
+
+JUCE_backup/
