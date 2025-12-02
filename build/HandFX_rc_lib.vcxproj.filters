@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Stavros\HandFXApp\build\CMakeFiles\3bafd086436f25cd8562ffb265d0ae10\HandFX_resources.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Stavros\HandFXApp\HandFX\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Stavros\HandFXApp\build\HandFX_artefacts\JuceLibraryCode\HandFX_resources.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0A36321B-F951-3D08-BEC5-5BDBF1015504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{346348A1-9615-3051-8855-80F4D8EFB617}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

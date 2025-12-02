@@ -1,0 +1,10 @@
+C:/Users/Stavros/HandFXApp/build/CMakeFiles/HandFX.dir
+C:/Users/Stavros/HandFXApp/build/CMakeFiles/HandFX_rc_lib.dir
+C:/Users/Stavros/HandFXApp/build/CMakeFiles/INSTALL.dir
+C:/Users/Stavros/HandFXApp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Stavros/HandFXApp/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Stavros/HandFXApp/build/JUCE_build/CMakeFiles/INSTALL.dir
+C:/Users/Stavros/HandFXApp/build/JUCE_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Stavros/HandFXApp/build/JUCE_build/modules/CMakeFiles/INSTALL.dir
+C:/Users/Stavros/HandFXApp/build/JUCE_build/extras/Build/CMakeFiles/INSTALL.dir
+C:/Users/Stavros/HandFXApp/build/JUCE_build/extras/Build/juceaide/CMakeFiles/INSTALL.dir

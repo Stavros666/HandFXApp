@@ -1,0 +1,65 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"C:/Users/Stavros/HandFXApp/JUCE/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 160,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/JUCE-8.0.11",
+			"paths" : 
+			[
+				"C:/Users/Stavros/HandFXApp/build/JUCE_build/JUCEConfigVersion.cmake",
+				"C:/Users/Stavros/HandFXApp/build/JUCE_build/JUCEConfig.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/JUCECheckAtomic.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/JUCEHelperTargets.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/JUCEModuleSupport.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/JUCEUtils.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/JuceLV2Defines.h.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/LaunchScreen.storyboard",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/PIPAudioProcessor.cpp.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/PIPAudioProcessorWithARA.cpp.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/PIPComponent.cpp.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/PIPConsole.cpp.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/RecentFilesMenuTemplate.nib",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/UnityPluginGUIScript.cs.in",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/checkBundleSigning.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/copyDir.cmake",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/juce_runtime_arch_detection.cpp",
+				"C:/Users/Stavros/HandFXApp/JUCE/extras/Build/CMake/juce_LinuxSubprocessHelper.cpp"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "JUCE_build",
+		"source" : "C:/Users/Stavros/HandFXApp/JUCE"
+	}
+}

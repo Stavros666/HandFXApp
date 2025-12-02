@@ -1,0 +1,10 @@
+^C:\USERS\STAVROS\HANDFXAPP\BUILD\JUCE_BUILD\TOOLS\CMAKEFILES\C7B4FA825649DB29E75F8A2971F8D4D0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Stavros/HandFXApp/JUCE -BC:/Users/Stavros/HandFXApp/build/JUCE_build/tools --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Stavros/HandFXApp/build/JUCE_build/tools/JUCE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
